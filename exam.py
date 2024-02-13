@@ -1,1 +1,1 @@
-print("hello world")
+print("mening codimga tegmanglar")
